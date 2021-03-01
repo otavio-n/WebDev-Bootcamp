@@ -1,0 +1,1 @@
+This is just a dice game, done with jQuery. The higher number wins the match. To replay, just refresh the page.
